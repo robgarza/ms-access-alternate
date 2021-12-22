@@ -1,0 +1,1 @@
+This project was created as an alternative to a drag and drop set of forms I saw created in MS Access. The intention was to see if I could code it myself including the functionality, layout, and database.

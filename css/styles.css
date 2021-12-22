@@ -1,0 +1,36 @@
+.position-table{
+    background-image: url('../img/Grey-Background-Wallpaper-HD.jpeg');
+}
+.employee-profile{
+    background-image: url('../img/employee-profile-black-backgrounds.jpeg');
+}
+.some-profile{
+    background-image: url('../img/navigation-page-bg.jpg');
+}
+label{
+    color: #fff;
+}
+h1, h2{
+    color: #fff;
+}
+.preview{
+    color: black;
+}
+#sex, #civilStatus {
+    color: gray;
+  }
+  #bDay{
+      color:gray;
+  }
+  #phoneNumber{
+    color:gray;
+}
+  #bDay:focus{
+    color:black;
+  }
+  #position{
+    color:gray;
+}
+[value='select-position']{
+    color: #000 !important;
+}
