@@ -37,7 +37,7 @@
     <div class="row text-center mt-5 mb-5">
         <h2>Application</h2>
         <div class="d-grid gap-2 d-lg-block mt-5 mb-5">
-        <a href="open-human-resource-management-form.php"><button class="btn btn-light" type="button">Close Application</button></a>
+        <a href="index.php"><button class="btn btn-light" type="button">Close Application</button></a>
         </div>
     </div>
 
